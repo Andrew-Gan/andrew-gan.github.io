@@ -7,6 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-As a PhD candidate working with Dr. Zahra Ghodsi, I apply accelerator architecture to cryptograhic protocols such as secure multi-party computation (MPC), with a focus on ML applications. My motivation for working in this field of research is to connect the performance concerns of the accelerator architecture community and the security concerns of the cryptographic community.
+I am a PhD candidate in the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://purdue.edu/), under the advice of [Dr. Zahra Ghodsi](https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=270860&group_id=2571).
 
-I published my work on GPU Accelerated Oblivious Transfer (OT) for MPC to IEEE HOST 2025, with other works in the pipeline. I was selected to participate in the DAC 2025 Young Fellow's Program. I am currently looking for a research internship at any time, preferably during the summer.
+I apply accelerator architectures such as GPUs to cryptograhic protocols such as secure multi-party computation (MPC), with machine learning as a targeted application. My motivation for working on this topic stems from the desire to connect the performance concerns of the accelerator architecture community and the security concerns of the cryptographic community. I am also working on projects related to systems support for ML supply chain security and Trusted Execution Environments (TEEs) on accelerators.
+
+I am a member of TCLS, the Trustworthy and Collaborative Learning Systems lab. Here, we work on integrating AI/ML applications, secure MPC and hardware acceleration to achieve practical and secure intelligent systems. I have published works to HOST 2025, with other works in the pipeline. 
+
+As of Summer 2025, I am looking for a research internship for the fall or spring semester.
+
+Awards
+- DAC 2025 Young Fellow's Program
