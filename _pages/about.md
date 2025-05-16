@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-As an emerging researcher working towards a PhD, my interdisciplinary research focus involves using high performance computation such as GPUs to accelerate cryptograhic protocols, particularly those used in secure multi-party computation (MPC). My work is integrated into machine learning applications. My motivation for choosing this field is due to an interest in bringing abstract algebra into hardware implementation and bridging the machine learning community and the cryptography community.
+As a PhD candidate working with Dr. Zahra Ghodsi, I apply accelerator architecture to cryptograhic protocols such as secure multi-party computation (MPC), with a focus on ML applications. My motivation for working in this field of research is to connect the performance concerns of the accelerator architecture community and the security concerns of the cryptographic community.
 
-Under the guidance of Prof. Zahra Ghodsi, I have published a paper to HOST 2025, a conference by IEEE, proposing a system for accelerated secure computation of non-linear components of a neural network using Oblivious Transfer as a building block, with future work in the pipeline pending submission to other conferences.
-
-I am currently looking for a research internship at any time, preferably during the summer. In my earlier days, I completed my undergraduate studies at Taylor's University (Malaysia), and Purdue University.
+I published my work on GPU Accelerated Oblivious Transfer (OT) for MPC to IEEE HOST 2025, with other works in the pipeline. I was selected to participate in the DAC 2025 Young Fellow's Program. I am currently looking for a research internship at any time, preferably during the summer.

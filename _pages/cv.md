@@ -26,12 +26,6 @@ Work experience
   * Amount, Inc
   * Duties includes: Write software to automate FE and API testing against loan application websites.
   * Supervisor: Raj Balaebail
-  
-Skills
-======
-* CUDA development
-* Skiing
-* English, Mandarin, Malay, learning German
 
 Publications
 ======
