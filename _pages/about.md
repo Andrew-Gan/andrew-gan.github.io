@@ -16,7 +16,7 @@ I am a member of TCLS, the Trustworthy and Collaborative Learning Systems lab. W
 As of Summer 2025, I am looking for a research internship for the fall or spring semester.
 
 ## Bio
-Born and raised in Malaysia, I attended Taylor's University and enrolled into the American Degree Transfer Program (ADP). After two years, I transferred my credits to Purdue University and graduated with a BSc. in Computer Engineering in 2020. After a brief period in the industry, I went to graduate school and received a MSc. in Electrical and Computer Engineering in 2024 from Purdue before continuing on to PhD candidacy.
+I attended Taylor's University, Malaysia and enrolled into the American Degree Transfer Program (ADP) for two years, afterwhich I transferred to Purdue University and graduated with a BSc. in Computer Engineering in 2020. After a brief period in the industry, I went to graduate school at Purdue and received a MSc. in Electrical and Computer Engineering in 2024 before continuing on to PhD candidacy. My intent is to enter the industry.
 
 ## Hobbies
 swing dance, cooking, cycling, reading literature, learning a language
