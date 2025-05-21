@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-cuOT: Accelerating Oblivious Transfer on GPUs for Privacy-preserving Computation
+## cuOT: Accelerating Oblivious Transfer on GPUs for Privacy-preserving Computation
 - Andrew Gan, Setsuna Yuki, Timothy Rogers, Zahra Ghodsi
 - Hardware Oriented Security and Trust (HOST)
 - May 2025

@@ -4,18 +4,18 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-### Project Course Advisor  
-- ECE 47920: Vertically Integrated Project - Privacy-preserving Machine Learning  
+### ECE 47920: Privacy-preserving Machine Learning  
+- Course Project Advisor  
 - Spring 2025  
   
-### Graduate Teaching Assistant  
-- ECE 36200: Microprocessor Systems and Interfacing  
+### ECE 36200: Microprocessor Systems and Interfacing 
+- Graduate Teaching Assistant  
 - Spring 2023  
   
-### Graduate Teaching Assistant  
-- ECE 39595: Object-oriented Programming in C++  
+### ECE 39595: Object-oriented Programming in C++
+- Graduate Teaching Assistant    
 - Fall 2022  
   
-### Undergraduate Teaching Assistant  
-- ECE 30862: Object-oriented Programming in C++ and Java  
+### ECE 30862: Object-oriented Programming in C++ and Java  
+- Undergraduate Teaching Assistant  
 - Fall 2020  

@@ -9,15 +9,18 @@ redirect_from:
 
 I am a PhD candidate in the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://purdue.edu/), under the advice of [Dr. Zahra Ghodsi](https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=270860&group_id=2571).
 
-I apply accelerator architectures such as GPUs to cryptograhic protocols such as secure multi-party computation (MPC), with machine learning as a targeted application. My motivation for working on this topic stems from the desire to connect the performance concerns of the accelerator architecture community and the security concerns of the cryptographic community. I am also working on projects related to systems support for ML supply chain security and Trusted Execution Environments (TEEs) on accelerators.
+I apply accelerators to cryptography for secure computation of popular applications. My motivation for this field stems from a desire to bridge the performance concerns of the accelerator community and the security concerns of the cryptographic community.
 
-I am a member of TCLS, the Trustworthy and Collaborative Learning Systems lab. Here, we work on integrating AI/ML applications, secure MPC and hardware acceleration to achieve practical and secure intelligent systems. I have published works to HOST 2025, with other works in the pipeline. 
+I am a member of TCLS, the Trustworthy and Collaborative Learning Systems lab. We work on integrating ML applications, secure MPC and hardware acceleration to build practical and secure intelligent systems. I am open to collaboration regardless of academic department or location of institution.
 
 As of Summer 2025, I am looking for a research internship for the fall or spring semester.
 
 ## Bio
-Born and raised in Malaysia, I attended Taylor's University and enrolled into the American Degree Transfer Program (ADP). After two years, I transferred my credits to Purdue University and graduated with a BSc. in Computer Engineering in 2020. After a brief period in the industry, I went to graduate school and received a MSc. in Electrical and Computer Engineering from Purdue in 2024 before continuing on to PhD candidacy.
+Born and raised in Malaysia, I attended Taylor's University and enrolled into the American Degree Transfer Program (ADP). After two years, I transferred my credits to Purdue University and graduated with a BSc. in Computer Engineering in 2020. After a brief period in the industry, I went to graduate school and received a MSc. in Electrical and Computer Engineering in 2024 from Purdue before continuing on to PhD candidacy.
+
+## Hobbies
+swing dance, cooking, cycling, reading literature, learning a language
 
 ## Awards
-DAC 2025 Young Fellow's Program  
-Fall 2018 Dean's List
+- DAC 2025 Young Fellow Program  
+- Fall 2018 Dean's List
