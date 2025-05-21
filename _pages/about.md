@@ -15,5 +15,9 @@ I am a member of TCLS, the Trustworthy and Collaborative Learning Systems lab. H
 
 As of Summer 2025, I am looking for a research internship for the fall or spring semester.
 
-Awards
-- DAC 2025 Young Fellow's Program
+## Bio
+Born and raised in Malaysia, I attended Taylor's University and enrolled into the American Degree Transfer Program (ADP). After two years, I transferred my credits to Purdue University and graduated with a BSc. in Computer Engineering in 2020. After a brief period in the industry, I went to graduate school and received a MSc. in Electrical and Computer Engineering from Purdue in 2024 before continuing on to PhD candidacy.
+
+## Awards
+DAC 2025 Young Fellow's Program  
+Fall 2018 Dean's List
