@@ -17,3 +17,6 @@ to be added...
 
 ## [Trusted Execution Environment for Accelerators](https://github.com/ConfidentialComputing/GPU-TEE-Papers)
 to be added...
+
+## Relating them together for my thesis
+![research](/images/research.png)
