@@ -15,7 +15,7 @@ I am a member of TCLS, the Trustworthy and Collaborative Learning Systems lab. W
 I attended Taylor's University in Malaysia and enrolled into the American Degree Transfer Program (ADP), after which I transferred to Purdue University and graduated with a BSc. in Computer Engineering in 2020. After a brief period in the industry, I went to graduate school at Purdue and received a MSc. in ECE in 2024 before continuing on to PhD candidacy. My intent is to enter the industry as a researcher for a company in the relevant field.
 
 ## Research
-![research](/images/research.png)
+<img src="../images/research.png" alt="drawing" width="300"/>
 
 My work is related to Security and Privacy, Accelerator Architecture and Machine Learning. Check out the research section to learn more! My motivation for this field stems from a desire to bridge the performance concerns of the accelerator community and the security concerns of the cryptographic community. I have built GPU acceleration for privacy-preserving computation, frameworks for authenticating ML artifacts on the GPU and enhancing ML training with differential privacy within an accelerated GPU framework.
 
@@ -24,12 +24,12 @@ My work is related to Security and Privacy, Accelerator Architecture and Machine
 ### Sentry: Authenticating Machine Learning Artifacts on the Fly
 - **Andrew Gan**, Zahra Ghodsi
 - 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)
-- [Paper](http://andrew-gan.github.io/files/Sentry_paper.pdf), [Slides]()
+- [Paper](https://andrew-gan.github.io/files/Sentry_paper.pdf), [Slides](https://andrew-gan.github.io/files/Sentry_slides.pdf)
 
 ### cuOT: Accelerating Oblivious Transfer on GPUs for Privacy-preserving Computation
 - **Andrew Gan**, Setsuna Yuki, Timothy Rogers, Zahra Ghodsi
 - 2025 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
-- [Paper](http://andrew-gan.github.io/files/cuOT_paper.pdf), [Slides](http://andrew-gan.github.io/files/cuOT_slides.pdf)
+- [Paper](https://andrew-gan.github.io/files/cuOT_paper.pdf), [Slides](https://andrew-gan.github.io/files/cuOT_slides.pdf)
 
 ## Awards
 - DAC 2025 Young Fellow  
