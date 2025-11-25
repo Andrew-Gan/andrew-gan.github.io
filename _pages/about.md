@@ -24,12 +24,12 @@ My work is related to Security and Privacy, Accelerator Architecture and Machine
 ### Sentry: Authenticating Machine Learning Artifacts on the Fly
 - **Andrew Gan**, Zahra Ghodsi
 - 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)
-- [Paper](https://andrew-gan.github.io/files/Sentry_paper.pdf), [Slides](https://andrew-gan.github.io/files/Sentry_slides.pdf)
+- [Paper](https://andrew-gan.github.io/files/Sentry_paper.pdf), [Slides](https://andrew-gan.github.io/files/Sentry_slides.pdf), [Proceedings](https://doi.org/10.1145/3719027.3765070)
 
 ### cuOT: Accelerating Oblivious Transfer on GPUs for Privacy-preserving Computation
 - **Andrew Gan**, Setsuna Yuki, Timothy Rogers, Zahra Ghodsi
 - 2025 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
-- [Paper](https://andrew-gan.github.io/files/cuOT_paper.pdf), [Slides](https://andrew-gan.github.io/files/cuOT_slides.pdf)
+- [Paper](https://andrew-gan.github.io/files/cuOT_paper.pdf), [Slides](https://andrew-gan.github.io/files/cuOT_slides.pdf), [Proceedings](https://doi.ieeecomputersociety.org/10.1109/HOST64725.2025.11050054)
 
 ## Teaching
 
