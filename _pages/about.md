@@ -15,7 +15,7 @@ Hi! I am a PhD candidate in the [Purdue University School of ECE](https://engine
   <img src="../images/research.png" alt="drawing" width="300"/>
 </details>
 
-My work is strongly tied to Security and Privacy, Accelerator Architecture and Machine Learning. Specifically, I explore ways to make trustworthy ML more efficient by leveraging the compute capability of  GPUs. My aim is to bridge the performance goals of the accelerator community with the security concerns of the cryptographic community in an ever-growing ML landscape, where tasks are increasingly distributed across parties and new attack vectors against ML are always discovered.
+My work is strongly tied to Security and Privacy, Accelerator Architecture and Machine Learning. Specifically, I explore ways to make trustworthy ML more efficient by leveraging the compute capability of  GPUs. My aim is to bridge the performance goals of the accelerator community with the security concerns of the ML community, where tasks are increasingly distributed across parties and new attack vectors against ML are always discovered.
 
 I have designed GPU accelerated frameworks for privacy-preserving computation, proposed end-to-end frameworks for ML artifact authentication, and achieved significant speedup in ML training with differential privacy. I am also involved in AI/ML security projects by the Open Source Security Foundation (OpenSSF), part of the Linux Foundation.
 
