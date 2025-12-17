@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD candidate in the [School of ECE](https://engineering.purdue.edu/ECE) at [Purdue University](https://purdue.edu/), working with Professor [Zahra Ghodsi](https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=270860&group_id=2571) in the [Trustworthy and Collaborative Learning Systems (TCLS)](https://zahra.page/) lab.
+Hi! I am a PhD candidate in the [Purdue University School of ECE](https://engineering.purdue.edu/ECE), working with Professor [Zahra Ghodsi](https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=270860&group_id=2571) in the [Trustworthy and Collaborative Learning Systems (TCLS)](https://zahra.page/) lab.
 
 ## Research
 <details>
@@ -15,12 +15,12 @@ Hi! I am a PhD candidate in the [School of ECE](https://engineering.purdue.edu/E
   <img src="../images/research.png" alt="drawing" width="300"/>
 </details>
 
-My work is strongly tied to Security and Privacy, Accelerator Architecture and Machine Learning. My motivation for this field stems from a desire to bridge the performance goals of the accelerator community with the security concerns of the cryptographic community in an ever-growing ML landscape, where tasks are increasingly distributed across parties.
+My work is strongly tied to Security and Privacy, Accelerator Architecture and Machine Learning. Specifically, I explore ways to make trustworthy ML more efficient by leveraging the compute capability of  GPUs. My aim is to bridge the performance goals of the accelerator community with the security concerns of the cryptographic community in an ever-growing ML landscape, where tasks are increasingly distributed across parties and new attack vectors against ML are always discovered.
 
-Promoting security at the cost of performance is difficult, so the key is to develop security frameworks that build on performance-driven hardware. I have designed GPU accelerated frameworks for privacy-preserving computation, proposed end-to-end frameworks for ML artifact authentication, and achieved significant speedup in ML training with differential privacy. I am also involved in AI/ML security projects by the Open Source Security Foundation (OpenSSF), part of the Linux Foundation.
+I have designed GPU accelerated frameworks for privacy-preserving computation, proposed end-to-end frameworks for ML artifact authentication, and achieved significant speedup in ML training with differential privacy. I am also involved in AI/ML security projects by the Open Source Security Foundation (OpenSSF), part of the Linux Foundation.
 
 ## Bio
-I transferred from Taylor's University in Malaysia to Purdue University in West Lafayette, IN and graduated with a Bachelors in Computer Engineering in 2020. After working in Chicago as a software test automation engineer, I went to graduate school at Purdue and received a Masters in ECE in 2024 before continuing to PhD. I will become a researcher in the industry and transform research ideas into innovations that benefit many.
+I transferred from Taylor's University in Malaysia to Purdue University in West Lafayette and graduated with a Bachelors in Computer Engineering in 2020. After working in Chicago as a software test automation engineer, I went to graduate school at Purdue and received a Masters in ECE in 2024 before continuing to PhD. I will become a researcher in the industry and transform research ideas into innovations that benefit many.
 
 ## Publications
 
