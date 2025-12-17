@@ -11,7 +11,7 @@ Hi! I am a PhD candidate in the [Purdue University School of ECE](https://engine
 
 ## Research
 <details>
-  <summary>Research illustration</summary>
+  <summary>Research illustration (click me)</summary>
   <img src="../images/research.png" alt="drawing" width="300"/>
 </details>
 
