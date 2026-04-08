@@ -20,7 +20,7 @@ My work involves Security and Privacy, Accelerator Architecture and Machine Lear
 I have designed GPU accelerated frameworks for privacy-preserving computation, proposed end-to-end frameworks for ML artifact authentication, and achieved significant speedup in ML training with differential privacy. I am also involved in AI/ML security projects by the Open Source Security Foundation (OpenSSF), part of the Linux Foundation.
 
 ## Bio
-Born and raised in Malaysia, I attended the first two years of undergrad at Taylor's University, Malaysia and completed the rest of my studies at Purdue University, graduating with a BSc. in Computer Engineering in 2020. After working in Chicago as a software test engineer for Amount, Inc., I went to graduate school at Purdue and received a MSc. in ECE in 2024 before continuing on to PhD candidacy. I aspire to join the industry as a researcher.
+I attended the first two years of undergrad at Taylor's University, Malaysia :flag-my: and completed the rest of my studies at Purdue University, USA :flag-us:, graduating with a BSc. in Computer Engineering in 2020. After a brief experience in the industry, I enrolled into graduate school at Purdue and received a MSc. in ECE in 2024 before continuing on to PhD candidacy. I aspire to join the industry as a researcher.
 
 ## Publications
 
@@ -49,14 +49,14 @@ Born and raised in Malaysia, I attended the first two years of undergrad at Tayl
 - Nokia Bell Labs
 - PhD intern  
 - June 2026 - Sept 2026
-- Stuttgart, Germany :flag_de:
+- Stuttgart, Germany :flag-de:
 
 <img src="../images/amount.png" alt="drawing" width="100"/>
 
 - Amount, Inc.
 - Software Test Engineer
 - May 2021 - June 2022
-- Chicago, USA :flag_us:
+- Chicago, USA :flag-us:
 
 ## Projects
 
