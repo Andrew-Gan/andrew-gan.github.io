@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD candidate in the [Purdue University School of ECE](https://engineering.purdue.edu/ECE), working with Professor [Zahra Ghodsi](https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=270860&group_id=2571) in the [Trustworthy and Collaborative Learning Systems (TCLS)](https://zahra.page/) lab.
+Hi! I am a PhD candidate in the [Purdue University School of ECE](https://engineering.purdue.edu/ECE), working with Professor [Zahra Ghodsi](https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=270860&group_id=2571) in the [Trustworthy Computing and Learning Systems lab (TCLS)](https://zahra.page/).
 
 ## Research
 <details>
