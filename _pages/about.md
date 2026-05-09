@@ -48,7 +48,7 @@ I attended the first two years of undergrad at Taylor's University, Malaysia :ma
 
 - Nokia Bell Labs
 - PhD intern  
-- June 2026 - Sept 2026
+- Sept 2026 - Dec 2026
 - Stuttgart, Germany :de:
 
 <img src="../images/amount.png" alt="drawing" width="100"/>
