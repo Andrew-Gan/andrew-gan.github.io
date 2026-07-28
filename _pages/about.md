@@ -15,31 +15,28 @@ Hi! I am a PhD candidate in the [Purdue University School of Electrical and Comp
   <img src="../images/research.png" alt="drawing" width="300"/>
 </details>
 
-My work involves Security and Privacy, Accelerator Architecture and Machine Learning. Specifically, I make trustworthy ML systems efficient by leveraging the compute capability of GPUs. I aim to bridge the performance goals of hardware accelerators with the security concerns of the ML community, where tasks are distributed across parties and new attack vectors against ML are always discovered.
+My work involves Security and Privacy, Hardware Accelerators, and Machine Learning to develop efficient and trustworthy ML systems. I bridge the performance goals of hardware accelerators with the security goals of the ML community, where tasks are increasingly distributed across parties and new attack vectors against ML are always discovered.
 
-I have designed GPU accelerated frameworks for privacy-preserving computation, proposed end-to-end frameworks for ML artifact authentication, and achieved significant speedup in ML training with differential privacy. I am also involved in AI/ML security projects by the Open Source Security Foundation (OpenSSF), part of the Linux Foundation.
+I have designed GPU accelerated frameworks for privacy-preserving computation, end-to-end frameworks for ML artifacts authentication, and ML training pipelines that leverage hardware for differential privacy. I am also involved in an AI/ML security project with the Open Source Security Foundation (OpenSSF), part of the Linux Foundation.
 
 ## Bio
-I attended the first two years of undergrad at Taylor's University, Malaysia :malaysia: and completed the rest of my studies at Purdue University, USA :us:, graduating with a BSc. in Computer Engineering in 2020. After a brief experience in the industry, I enrolled into graduate school at Purdue and received a MSc. in ECE in 2024 before continuing on to PhD candidacy. I aspire to join the industry as a researcher.
+I completed half of my undergraduate studies at Taylor's University, Malaysia :malaysia: and the rest at Purdue University, USA :us:, graduating with a BSc. in Computer Engineering in 2020. After a brief experience in the industry, I enrolled into graduate school at Purdue and received a MSc. in ECE in 2024 before continuing on to PhD candidacy.
 
 ## Publications
 
 ### One RNG to Rule Them All - How Randomness Becomes an Attack Vector in Machine Learning
 - Kotekar Annapoorna Prabhu, **Andrew Gan**, Zahra Ghodsi  
-- IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)  
-- March 2026  
+- 2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)  
 - Paper, Proceedings
 
 ### Sentry: Authenticating Machine Learning Artifacts on the Fly
 - **Andrew Gan**, Zahra Ghodsi  
-- ACM SIGSAC Conference on Computer and Communications Security (CCS)  
-- October 2025  
+- 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)  
 - [Paper](https://andrew-gan.github.io/files/Sentry_paper.pdf), [Slides](https://andrew-gan.github.io/files/Sentry_slides.pdf), [Proceedings](https://doi.org/10.1145/3719027.3765070)
 
 ### cuOT: Accelerating Oblivious Transfer on GPUs for Privacy-preserving Computation
 - **Andrew Gan**, Setsuna Yuki, Timothy Rogers, Zahra Ghodsi  
-- IEEE International Symposium on Hardware Oriented Security and Trust (HOST)  
-- May 2025  
+- 2025 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)  
 - [Paper](https://andrew-gan.github.io/files/cuOT_paper.pdf), [Slides](https://andrew-gan.github.io/files/cuOT_slides.pdf), [Proceedings](https://doi.ieeecomputersociety.org/10.1109/HOST64725.2025.11050054)
 
 ## Industrial Experience
